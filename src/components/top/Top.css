@@ -1,0 +1,383 @@
+figcaption{
+    position: absolute;
+    top: 2rem;
+    margin: 0 3rem;
+    color: white;
+    font-size: 2em;
+    
+}
+
+.search-icon{
+    position: absolute;
+    top: 2rem;
+    margin: 0 75rem;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}
+
+.login{
+    position: absolute;
+    top: 2.5rem;
+    margin: 0 79rem;
+    color: white;
+    font-size: 1em;
+    font-family: sans-serif;
+    cursor: pointer;
+
+}
+
+.menu{
+
+    position: absolute;
+    top: 2rem;
+    margin: 0 84rem;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.main_text{
+    position: absolute;
+    top: 14rem;
+    margin: 0 20rem;
+    color: white;
+    font-size: 3em;
+}
+
+.sub-text{
+    position: absolute;
+    top: 20rem;
+    margin: 0 23rem;
+    color: white;
+    font-size: 1em;
+}
+
+.main-butt{
+    position: absolute;
+    top: 25rem;
+    right: 45rem;
+    color: white;
+    font-size: 1em;
+    background-color: #fddd34;
+    border-radius: .7rem;
+    border-color: #fddd34;
+    height: 3rem;
+    width: 11rem;
+}
+.form{
+    margin-top: 2rem;
+}
+
+.form-btn{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    width: 8rem;
+    border-radius: .5rem;
+    background-color: ddd34;
+    border-color: rgb(107, 107, 193);
+}
+.img-banner{
+    position: absolute;
+    top: 28rem;
+    padding-top: 2rem;
+    right: 24rem;
+    height: 28rem;
+    width: 50rem;
+}
+
+.mid-text{
+    position: absolute;
+    justify-content: center;
+    padding-top: 9%;
+    padding-left: 40%;
+}
+
+.mid-img-main{
+    float: left;
+    position: relative;
+    height: 15rem;
+    width: 15rem;
+    margin-top: 20rem;
+    margin-left: 8rem;
+    background-color: #d6daf5;
+    border-radius: 50%;
+ 
+}
+
+.circle-one{
+    
+    height: 13rem;
+    width: 13rem;
+    left: 1rem;
+    top: 1rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: #1ba1ba;
+    
+}
+
+.work1-img{
+    height: 11rem;
+    width: 11rem;
+    position: absolute;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    
+}
+
+.mid-img-main-two{
+    float: left;
+    position: relative;
+    height: 15rem;
+    width: 15rem;
+    margin-top: 20rem;
+    margin-left: 20rem;
+    background-color: #d6daf5;
+    border-radius: 50%;
+    margin-left: 7.5rem;
+}
+
+.circle-two{
+    height: 13rem;
+    width: 13rem;
+    left: 1rem;
+    top: 1rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: #1ba1ba;
+}
+
+.work2-img{
+    height: 11rem;
+    width: 11rem;
+    position: absolute;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    
+}
+
+.mid-img-main-three{
+    float: left;
+    position: relative;
+    height: 15rem;
+    width: 15rem;
+    margin-top: 20rem;
+    margin-left: 20rem;
+    background-color: #d6daf5;
+    border-radius: 50%;
+    margin-left: 8rem;
+}
+
+.circle-three{
+    height: 13rem;
+    width: 13rem;
+    left: 1rem;
+    top: 1rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: #1ba1ba;
+}
+
+.work3-img{
+    height: 11rem;
+    width: 11rem;
+    position: absolute;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    
+}
+.text-row{
+    padding-top: 2rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 4px;
+
+}
+
+.mid-after{
+    position: absolute;
+   
+    background-color: #2901b9;
+    margin-top: 4rem;
+    height: 47rem;
+    width: 100%;
+}
+.mid-after-sub-img{
+   float: left;
+    border-radius: 50%;
+}
+.mid-after-sub-txt{
+    padding-top: 10rem;
+    padding-right: 8rem;
+    justify-content: right;
+    text-align: right;
+    color: white;
+}
+
+
+.mid-btn{
+    height: 3rem;
+    width: 10rem;
+    border-radius: .5rem;
+    background-color: #fddd34;
+    border-color: #fddd34;
+    margin-top: 3rem;
+}
+
+.al-la-img-a{
+    width: 10rem;
+    height: 10rem;
+    background-color: #1ba1ba;
+}
+
+.la-con-text{
+    margin-top: 55rem;
+    padding-left: 38rem;
+}
+
+.la-con-a{
+    margin-left: 1rem;
+    margin-top: 10rem;
+    background-color: #1ba1ba;
+    width: 19rem;
+    height: 13rem;
+    border-radius: .5rem;
+
+}
+.img-a{
+    width: 8rem;
+    height: 8rem;
+    margin-top: 3rem;
+    margin-left: 5.4rem;
+}
+
+.la-con-b{
+    margin-left: 1.1rem;
+    margin-top: 10rem;
+    background-color: #1ba1ba;
+    width: 19rem;
+    height: 13rem;
+    border-radius: .5rem;
+
+}
+.img-b{
+    width: 8rem;
+    height: 8rem;
+    margin-top: 3rem;
+    margin-left: 5.4rem;
+}
+
+.la-con-c{
+    margin-left: 1.1rem;
+    margin-top: 10rem;
+    background-color: #1ba1ba;
+    width: 19rem;
+    height: 13rem;
+    border-radius: .5rem;
+
+}
+.img-c{
+    width: 8rem;
+    height: 8rem;
+    margin-top: 3rem;
+    margin-left: 5.4rem;
+}
+
+.la-con-d{
+    margin-left: 1.1rem;
+    margin-top: 10rem;
+    background-color: #1ba1ba;
+    width: 19rem;
+    height: 13rem;
+    border-radius: .5rem;
+
+}
+.img-d{
+    width: 8rem;
+    height: 8rem;
+    margin-top: 3rem;
+    margin-left: 5.4rem;
+}
+.text-la{
+    padding-top: 2rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 4px;
+   
+}
+
+.la-head{
+    padding-top: 10rem;
+    padding-left: 40rem;
+}
+
+.la-head-img{
+    padding-left: 7rem;
+    padding-top: 6rem;
+}
+
+.la-head-form{
+    background-color: #2901b9;
+
+
+}
+
+.las-for{
+    width: 100rem;
+    padding-top: 5rem;
+    padding-left: 4rem;
+}
+
+.name,.password,.email,.massage{
+    width: 50rem;
+    height: 3rem;
+}
+.e,.pa,.mas,.b{
+    padding-top: 3rem;
+}
+
+.massage{
+    height: 12rem;
+}
+
+.btn{
+    width: 5rem;
+    height: 3rem;
+    background-color: #fddd34;
+
+}
+
+.footer{
+
+    background-color: black;
+    width: 100%;
+    height: 30rem;
+}
+.lis-a{
+    color: white;
+    padding: 5rem;
+    margin-left: 8rem;
+    font-size: larger;
+}
+.ul {
+    list-style-type: none;
+}
+
+.text-box{
+    width: 30rem;
+    height: 3rem;
+}
+
+.fb{
+    padding-left: 8rem;
+}
+.twitter{
+    padding-left: 1rem;
+}
+.linked{
+    padding-left: 1rem;
+}
+.insta{
+    padding-left: 1rem;
+}
